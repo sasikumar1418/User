@@ -1,5 +1,4 @@
-git remote add origin https://github.com/sasikumar1418/sasikumar1418.git
-git branch -M main
+git remote add origin https://github.com/sasikumar1418
 git push -u origin main
 git remote add origin https://github.com/sasikumar1418/sasikumar1418.git
 git branch -M main
